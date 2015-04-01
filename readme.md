@@ -38,7 +38,7 @@ Requires **Ruby** and **SASS** installed as command line tools.
 Installing
 -------------
 
-Download the latzest zip or clone the project from the [Github](https://github.com/DeviantDev-Dev/SASS-SCSS-Build-for-Sublime-Text) repository. Move the files into a new folder named like `SASS-Build` in your Sublime Text "Packages" folder.
+Download the latzest zip or clone the project from the [Github](https://github.com/devdev-dev/SASS-SCSS-Build-for-Sublime-Text) repository. Move the files into a new folder named like `SASS-Build` in your Sublime Text "Packages" folder.
 
 Thanksgivings
 ----------------
