@@ -5,7 +5,7 @@ Author
 ------
 
 Created by **Hendrik Schuster** ([@journal.deviantdev.com](http://www.journal.deviantdev.com)).
-Corresponding [journal entry](http://www.journal.deviantdev.com/sublime-text-build-system-sass)
+Corresponding [Journal Entry](http://www.journal.deviantdev.com/sublime-text-build-system-sass)
 
 License: [BSD 2 Licence](http://opensource.org/licenses/BSD-2-Clause)
 
@@ -38,7 +38,7 @@ Requires **Ruby** and **SASS** installed as command line tools.
 Installing
 -------------
 
-Download the latzest zip or clone the project from the [Github](https://github.com/DeviantDev-Dev/xxx) repository. Move the files into a new folder named like `SASS-Build` in your Sublime Text "Packages" folder.
+Download the latzest zip or clone the project from the [Github](https://github.com/DeviantDev-Dev/SASS-SCSS-Build-for-Sublime-Text) repository. Move the files into a new folder named like `SASS-Build` in your Sublime Text "Packages" folder.
 
 Thanksgivings
 ----------------
